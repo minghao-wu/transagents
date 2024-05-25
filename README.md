@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/img/logo.jpg" alt="Logo" width="600">
+  <img src="/img/logo.jpg" alt="Logo" width="400">
 </div>
 
 # TransAgents: Multi-Agent for Translating Ultra-Long Literary Texts
@@ -21,4 +21,21 @@ _¹ Monash University, ² University of Macau, ³ Tencent AI Lab_
 _<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
 </div>
 
-Stay tuned for updates!
+
+We introduce a novel multi-agent framework based on large language models (LLMs) for literary translation, implemented as a company called TransAgents, which mirrors traditional translation publication process by leveraging the collective capabilities of multiple agents, to address the intricate demands of translating literary works. 
+
+## News 🤩🤩🤩
+
+- \[25/05/2024\] 🚀🚀🚀 **Stay tuned for updates!** We will release code and data.
+
+
+## Citation
+
+```bibtex
+@article{wu2024perhaps,
+  title={(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts},
+  author={Wu, Minghao and Yuan, Yulin and Haffari, Gholamreza and Wang, Longyue},
+  journal={arXiv preprint arXiv:2405.11804},
+  year={2024}
+}
+```
