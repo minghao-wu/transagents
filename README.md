@@ -26,7 +26,7 @@ We introduce a novel multi-agent framework based on large language models (LLMs)
 
 ## News 🤩🤩🤩
 
-- \[25/05/2024\] 🚀🚀🚀 **Stay tuned for updates!** We will release code and data.
+- \[25/05/2024\] 🚀🚀🚀 **Stay tuned for updates!** We will release data and demo.
 
 
 ## Citation
