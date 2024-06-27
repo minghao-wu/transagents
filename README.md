@@ -11,7 +11,7 @@
 
 <!-- **Authors:** -->
 
-**_¹ [Minghao Wu](https://minghao-wu.github.io/), [Jiahao Xu](https://www.linkedin.com/in/jiahao-xu-539623187) ² Yulin Yuan, ¹ Gholamreza Haffari, ³ <sup>*</sup> [Longyue Wang](http://www.longyuewang.com/)_**
+**_¹ [Minghao Wu](https://minghao-wu.github.io/), ³[Jiahao Xu](https://www.linkedin.com/in/jiahao-xu-539623187) ² [Yulin Yuan](https://fah.um.edu.mo/yulin-yuan), ¹ (Gholamreza Haffari)[https://users.monash.edu.au/~gholamrh], ³ <sup>*</sup> [Longyue Wang](http://www.longyuewang.com/)_**
 
 
 <!-- **Affiliations:** -->
