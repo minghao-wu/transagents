@@ -25,9 +25,9 @@ _<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](
 
 We introduce a novel multi-agent framework based on large language models (LLMs) for literary translation, implemented as a company called TransAgents, which mirrors traditional translation publication process by leveraging the collective capabilities of multiple agents, to address the intricate demands of translating literary works. 
 
-<iframe width="560" height="315" src="https://youtu.be/lB-gPHax4ow" title="TransAgents Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://youtu.be/lB-gPHax4ow" title="TransAgents Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lB-gPHax4ow/0.jpg)](http://www.youtube.com/watch?v=lB-gPHax4ow "Video Title")
 
 
 <!-- <video src="/img/TransAgents_demo.mp4" width="320" height="240" controls></video> -->
