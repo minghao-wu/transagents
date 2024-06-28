@@ -17,7 +17,7 @@
 
 _¹ Monash University, ² University of Macau, ³ Tencent AI Lab_
 
-📰 [Paper](https://arxiv.org/abs/2405.11804) :technologist: [Demo](http://www.transagents.ai) :card_file_box: [Data](/outputs) :monocle_face: [Video]()
+📰 [Paper](https://arxiv.org/abs/2405.11804) :technologist: [Demo](http://www.transagents.ai) :card_file_box: [Data](/outputs) :monocle_face: [Video](https://www.youtube.com/watch?v=lB-gPHax4ow)
 
 _<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
 </div>
@@ -40,6 +40,7 @@ We introduce a novel multi-agent framework based on large language models (LLMs)
 
 ## News 🤩🤩🤩
 
+- \[27/06/2024\] 🚀🚀🚀 **TransAgents Demo Video** is ready!
 - \[27/06/2024\] 🚀🚀🚀 **TransAgents Demo System** is released at http://www.transagents.ai !
 - \[12/06/2024\] 🚀🚀🚀 The translation outputs given by **TransAgents**, **reference**, and **gpt-4-1106-preview** are released!
 - \[25/05/2024\] 🚀🚀🚀 **Stay tuned for updates!** We will release data and demo.
