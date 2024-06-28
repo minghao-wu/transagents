@@ -25,18 +25,6 @@ _<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](
 
 We introduce a novel multi-agent framework based on large language models (LLMs) for literary translation, implemented as a company called TransAgents, which mirrors traditional translation publication process by leveraging the collective capabilities of multiple agents, to address the intricate demands of translating literary works. 
 
-<!-- <iframe width="560" height="315" src="https://youtu.be/lB-gPHax4ow" title="TransAgents Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/lB-gPHax4ow/0.jpg)](http://www.youtube.com/watch?v=lB-gPHax4ow "Video Title") -->
-
-
-<!-- <video src="/img/TransAgents_demo.mp4" width="320" height="240" controls></video> -->
-
-<!-- <video width="320" height="240" controls>
-  <source src="/img/TransAgents_demo.mp4" type="video/mp4">
-</video> -->
-
-<!-- <p align="center"> <img src="/img/TransAgents_demo.mp4" width="700px"> </p> -->
 
 ## News 🤩🤩🤩
 
@@ -45,10 +33,19 @@ We introduce a novel multi-agent framework based on large language models (LLMs)
 - \[12/06/2024\] 🚀🚀🚀 The translation outputs given by **TransAgents**, **reference**, and **gpt-4-1106-preview** are released!
 - \[25/05/2024\] 🚀🚀🚀 **Stay tuned for updates!** We will release data and demo.
 
-## Video
+## Demo Video
 
 https://github.com/minghao-wu/transagents/assets/5949882/ebb175f0-5a57-46a7-a252-5b94f3079de7
 
+## Demo System
+
+This is a virtual multi-agent translation company that mirrors the traditional translation publication processes in human society. You are welcome to try our demo system (http://www.transagents.ai).
+
+<a href="http://www.transagents.ai">
+<div align="center">
+  <img src="/img/demo.jpg" alt="Logo" width="400">
+</div>
+</a>
 
 ## Translation Outputs
 
