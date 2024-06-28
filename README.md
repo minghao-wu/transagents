@@ -43,7 +43,7 @@ This is a virtual multi-agent translation company that mirrors the traditional t
 
 <a href="http://www.transagents.ai">
 <div align="center">
-  <img src="/img/demo.jpg" alt="Logo" width="400">
+  <img src="/img/demo.jpg" alt="Logo" width="600">
 </div>
 </a>
 
