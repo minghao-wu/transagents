@@ -17,7 +17,7 @@
 
 _¹ Monash University, ² University of Macau, ³ Tencent AI Lab_
 
-📝 [**Paper**](https://arxiv.org/abs/2405.11804) :technologist: [Demo](http://www.transagents.ai) 🗂️ [Data](/outputs) 📽️ [Video](https://www.youtube.com/watch?v=lB-gPHax4ow)
+📝 [**Paper**](https://arxiv.org/abs/2405.11804) :technologist: [**Demo**](http://www.transagents.ai) 🗂️ [**Data**](/outputs) 📽️ [**Video**](https://www.youtube.com/watch?v=lB-gPHax4ow)
 
 _<sup>*</sup>Longyue Wang is the corresponding author: [vinnlywang@tencent.com](mailto:{vinnlywang@tencent.com)_
 </div>
